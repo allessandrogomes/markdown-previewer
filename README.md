@@ -1,8 +1,11 @@
-# React + Vite
+# Markdown Previewer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicação consiste em um editor de texto para Markdown em tempo real.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/user-attachments/assets/89803a08-c491-4534-bf26-859fb9809266)
+![image](https://github.com/user-attachments/assets/4a598f9d-901b-4650-8dea-7a6921763454)
+![image](https://github.com/user-attachments/assets/626d87dd-73d4-4a41-adc1-bfcee30deb36)
+
+
+**Desenvolvido com React e a biblioteca marked.js por Alessandro Gomes**
